@@ -1,4 +1,4 @@
-
+no-ban Script for bedwars offers the most advanced bedwars Script, with anti-ban and one-hit kill. Perfect for dominating any match.
 
 
 
